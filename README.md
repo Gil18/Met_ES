@@ -42,3 +42,11 @@ Clase 1: 07/08/2023
 +se explico ue eran los intervalos de confianza, pvalue, grados de libertad. 
 
 +clase 5: 22/08/2023
+
+# Actividad 6 creacion de datos independientes 
+
++se instalo un paquete para facilitar los datos y vusualizalos mejor 
+
++se explico como se resumian los datos y se hicieron graficas para comparar 
+
++clase 6: 28/08/2023
